@@ -213,7 +213,7 @@ function App() {
           </button>
 
           <div className="ml-auto inline-flex items-center gap-1"> 
-            <div className="mr-2">
+            <div className="hidden lg:block mr-2">
               <input 
                 type="text"
                 placeholder="Search here"
